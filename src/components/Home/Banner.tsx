@@ -9,7 +9,7 @@ const Banner: React.FC = () => {
         <img 
           src="https://images.pexels.com/photos/2693644/pexels-photo-2693644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" 
           alt="Косметика" 
-          className="object-cover object-center w-full h-full opacity-20"
+          className="object-cover object-center w-full h-full opacity-50"
         />
       </div>
       <div className="container mx-auto px-4 h-full flex items-center relative z-10">

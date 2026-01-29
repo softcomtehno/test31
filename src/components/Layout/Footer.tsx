@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* О компании */}
           <div>
-            <h3 className="text-lg font-semibold mb-4 text-pink-600">Bella</h3>
+            <h3 className="text-lg font-semibold mb-4 text-pink-600">Akkush</h3>
           </div>
           
           {/* Категории */}
@@ -56,7 +56,7 @@ const Footer: React.FC = () => {
         {/* Копирайт */}
         <div className="mt-12 pt-6 border-t border-gray-200">
           <p className="text-center text-gray-500 text-sm">
-            © 2025 Bella. Все права защищены.
+            © 2025 akkush_cosmetics_kg. Разработано ASIYA.
           </p>
         </div>
       </div>

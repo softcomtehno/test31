@@ -35,7 +35,9 @@ const Header: React.FC = () => {
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           {/* Логотип */}
-          <Link to="/" className="font-bold text-2xl text-pink-600">Bella</Link>
+          <Link to="/" className="font-bold text-2xl flex items-center gap-2 text-[milk]">
+          <img src="/logo.png" className='w-10 rounded-full' alt="" />
+          akkush</Link>
           
           {/* Навигация - десктоп */}
           <nav className="hidden md:flex space-x-6 text-gray-700">
